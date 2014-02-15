@@ -34,3 +34,7 @@ while True:
 		break
 	print("input %s wrong"  % (reply.upper()))
 
+
+
+if "Py" in "Python" :
+	print "yes"
