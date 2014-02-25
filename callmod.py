@@ -7,4 +7,7 @@ moduletest.printhello()
 
 p = moduletest.piano()
 
+def aaa():
+    print "this is functiona"
+
 p.printdetails()
